@@ -8,7 +8,7 @@
 
 Projeto construído para acompanhar a Copa do Mundo Feminina 2023!
 
-[ 🔗 Clique aqui para acessar](https://projeto-nlw-copa-rocketseat-se2n.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://projeto-womens-cup.vercel.app/)
 
 ## 🚀 Tecnologias
 
